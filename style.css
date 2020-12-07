@@ -4,17 +4,13 @@
 }
 
 body {
-    background-image: url("resources/1.png");
-    background-repeat: repeat-y;
-    background-position: right top;
-}
+    background: url("resources/1.png") repeat-y right top;
 
-div {
     padding: 10px;
 }
 
 h1 {
-    padding: 15px 0;
+    padding: 10px 0 20px;
 }
 
 p {
